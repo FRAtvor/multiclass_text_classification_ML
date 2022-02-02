@@ -1,5 +1,6 @@
 # multiclass_text_classification_ML
-- klasifikace krátkých textů
+klasifikace krátkých textů
+
 Načtěte soubor “dataset_rss.csv”, sloupce jsou odděleny čárkou. Data obsahují titulky, perex
 a URL novinových článků. Data jsou seřazena náhodně.
 
