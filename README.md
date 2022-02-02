@@ -1,4 +1,7 @@
 # multiclass_text_classification_ML
+My firts ever ML experiment
+
+
 klasifikace krátkých textů
 
 Načtěte soubor “dataset_rss.csv”, sloupce jsou odděleny čárkou. Data obsahují titulky, perex
@@ -12,5 +15,7 @@ ignorovat. Každý článek patří právě do jedné hlavní kategorie.
 
 Vytvořte klasifikátor, který bude na základě titulku/perexu nebo obojího články
 klasifikovat do kategorií.
+
+
 
  
